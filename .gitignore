@@ -4,6 +4,7 @@
 *.egg
 *.egg-info
 _dist
+_test
 dist
 build
 eggs
